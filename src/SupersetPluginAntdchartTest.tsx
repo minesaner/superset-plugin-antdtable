@@ -1,6 +1,6 @@
 import React from "react";
 import { SupersetPluginAntdchartTestProps, TableDataType } from "./types";
-import type { ColumnsType, TablePaginationConfig } from "antd/es/table";
+import type { ColumnsType } from "antd/es/table";
 import { Table } from "antd";
 
 export default function SupersetPluginAntdchartTest(
